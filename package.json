@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@elastic/datemath": "2.3.0",
-    "@elastic/eui": "4.3.0",
+    "@elastic/eui": "7.0.0",
     "@slack/client": "4.4.0",
     "angular": "1.4.8",
     "angular-chart.js": "1.1.1",
@@ -37,7 +37,7 @@
     "chart.js": "2.7.2",
     "decompress": "4.2.0",
     "elasql": "1.0.3",
-    "elasticsearch": "13.2.0",
+    "elasticsearch": "16.7.3",
     "emailjs": "1.0.8",
     "font-awesome": "4.7.0",
     "later": "1.2.0",
